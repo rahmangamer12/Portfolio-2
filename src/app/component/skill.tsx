@@ -30,9 +30,9 @@ const Skill = () => {
         </div>
         <div className='flex-grow'>
             <div className='relative h-1 w-full bg-gray-300 rounded-xl'>
-                <div className='absolute bg-blue-500 h-1 rounded-full w-[89%]'></div>
+                <div className='absolute bg-blue-500 h-1 rounded-full w-[90%]'></div>
             </div>
-            <p className='font-bold text-blue-500 text-right'>89%</p>
+            <p className='font-bold text-blue-500 text-right'>90%</p>
         </div>
       </div>
       <div className="p-4 w-[100%] md:w-1/3">
@@ -46,9 +46,9 @@ const Skill = () => {
         </div>
         <div className='flex-grow'>
             <div className='relative h-1 w-full bg-gray-300 rounded-xl'>
-                <div className='absolute bg-blue-500 h-1 rounded-full w-[80%]'></div>
+                <div className='absolute bg-blue-500 h-1 rounded-full w-[90%]'></div>
             </div>
-            <p className='font-bold text-blue-500 text-right'>80%</p>
+            <p className='font-bold text-blue-500 text-right'>90%</p>
         </div>
       </div>
       <div className="p-4 w-[100%] md:w-1/3">
@@ -78,9 +78,9 @@ const Skill = () => {
         </div>
         <div className='flex-grow'>
             <div className='relative h-1 w-full bg-gray-300 rounded-xl'>
-                <div className='absolute bg-blue-500 h-1 rounded-full w-[69%]'></div>
+                <div className='absolute bg-blue-500 h-1 rounded-full w-[75%]'></div>
             </div>
-            <p className='font-bold text-blue-500 text-right'>69%</p>
+            <p className='font-bold text-blue-500 text-right'>75%</p>
         </div>
       </div>
       <div className="p-4 w-[100%] md:w-1/3">
@@ -94,9 +94,9 @@ const Skill = () => {
         </div>
         <div className='flex-grow'>
             <div className='relative h-1 w-full bg-gray-300 rounded-xl'>
-                <div className='absolute bg-blue-500 h-1 rounded-full w-[40%]'></div>
+                <div className='absolute bg-blue-500 h-1 rounded-full w-[80%]'></div>
             </div>
-            <p className='font-bold text-blue-500 text-right'>40%</p>
+            <p className='font-bold text-blue-500 text-right'>80%</p>
         </div>
       </div>
       <div className="p-4 w-[100%] md:w-1/3">
@@ -110,9 +110,9 @@ const Skill = () => {
         </div>
         <div className='flex-grow'>
             <div className='relative h-1 w-full bg-gray-300 rounded-xl'>
-                <div className='absolute bg-blue-500 h-1 rounded-full w-[47%]'></div>
+                <div className='absolute bg-blue-500 h-1 rounded-full w-[55%]'></div>
             </div>
-            <p className='font-bold text-blue-500 text-right'>47%</p>
+            <p className='font-bold text-blue-500 text-right'>55%</p>
         </div>
       </div>
     </div>
