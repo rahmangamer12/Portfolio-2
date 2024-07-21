@@ -10,6 +10,9 @@ import Skill from "./component/skill";
 export default function Home() {
   return (
    <div>
+    {/* <head>
+      <title>Portfolio</title>
+     </head> */}
     <Hero/>
     <About/>
     <Skill/>
